@@ -1,2 +1,2 @@
 # liberfly
-API de cadastro de usuários com Laravel 11 
+API de cadastro de usuários com Laravel 10.
