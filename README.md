@@ -3,6 +3,7 @@
 Rodar os comandos: 
 
 - composer install
+- criar arquivo .env
 - php artisan migrate
 - php artisan db:seed 
 
